@@ -32,8 +32,7 @@ This is a simple static web application built using the MEAN stack.
    - From `backend`:
      node server.js
 
-4. Open the application in your browser:
-   http://localhost:3000
+
 
 ## Notes
 - This project is for static content display only.
