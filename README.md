@@ -24,13 +24,15 @@ This is a simple static web application built using the MEAN stack.
    - In `backend`:
      npm install
 
-2. Build the Angular project:
-   - From `frontend`:
-     ng build
-
-3. Run the Express server:
+2. Run the Express server:
    - From `backend`:
      node server.js
+
+
+3. Build the Angular project:
+   - From `frontend`:
+    ng serve
+
 
 
 
